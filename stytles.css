@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(40, 20, 95);
+}
+
+h1{
+    font-family: 'Silkscreen', cursive;
+    margin: 40px;
+    font-size: 3rem;
+    margin-bottom: 50px;
+    color: white;
+}
+
+.cont{
+    width: 40%;
+    margin: auto;
+    text-align: center;
+}
+
+.box{
+    display: inline-block;
+    height: 9rem;
+    width: 9rem;
+    border: 1px solid black;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.w{
+    background-color: greenyellow;
+    color: greenyellow;
+}
+.a{
+    background-color: red;
+    color: red;
+}
+.s{
+    background-color: yellow;
+    color: yellow;
+}
+.d{
+   background-color: blue;
+   color: blue;
+}
+
+.opa{
+    opacity: 0.5;
+}
